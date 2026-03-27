@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "markdown-it": "^14.1.1"
+  },
+  "scripts": {
+    "build": "node index.js"
   }
 }
